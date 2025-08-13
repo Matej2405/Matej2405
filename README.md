@@ -1,16 +1,28 @@
-## Hi there 👋
+<h2 align="left">Hi there 👋 </h2>
 
-<!--
-**Matej2405/Matej2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img alt="github stats" height = "150"src="https://github-readme-stats.vercel.app/api?username=Matej2405&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent"/>
+  <img alt="top langs" height = "150"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matej2405&layout=compact"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+## About me
+ - 🎓 3rd-year Computer Engineering student at RiTeh passionate about turning ideas into functional applications.
+- 🎥 Content creator sharing my journey navigating life.
+- 💼 Currently interning as a Frontend Developer at Happening
+
+###
+## Let's Connect 🤝
+<div align="left"> 
+  <a href="https://www.linkedin.com/in/matej-brodarac-b866562ba/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:matej.brodarac@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  </div>
+
+
