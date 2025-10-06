@@ -12,8 +12,6 @@
 ## About me
  - 🎓 3rd-year Computer Engineering student at RiTeh passionate about turning ideas into functional applications.
 - 🎥 Content creator sharing my journey navigating life.
-- 💼 Currently interning as a Frontend Developer at Happening
-
 ###
 ## Let's Connect 🤝
 <div align="left"> 
