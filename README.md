@@ -10,7 +10,7 @@
 ###
 
 ## About me
- - 🎓 3rd-year Computer Engineering student at RiTeh passionate about turning ideas into functional applications.
+ - 🎓 3rd-year Computer Engineering student at Riteh passionate about turning ideas into functional applications.
 ###
 ## Let's Connect 🤝
 <div align="left"> 
